@@ -1,0 +1,13 @@
+$font-stack: Clarendon, serif;
+$primary-color: #9A4818;
+
+body {
+    background-color: '#F6F6F6';
+    margin: 0 auto;
+    width: 300px;
+  }
+.profile {
+    text-align: center;
+    font: 100% $font-stack;
+    color: $primary-color;
+  }
